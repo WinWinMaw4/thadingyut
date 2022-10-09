@@ -239,16 +239,16 @@
     .content>.text{
         position: absolute;
         font-family:Georgia, 'Times New Roman', Times, serif;
-        font-size: .7rem;
+        font-size: .8rem;
     
     }
     .click3 {
         left: 48%;
         top: 34%;
-        transform: scale(.7);
+        transform: scale(.8);
     }
     .subu{
-        font-size: .7rem;
+        font-size: .8rem;
     }
   }
 
@@ -260,6 +260,6 @@
     
     }
     .subu{
-        font-size: .65rem;
+        font-size: .7rem;
     }
   }
