@@ -221,11 +221,11 @@
     .content>.text{
         position: absolute;
         font-family:Georgia, 'Times New Roman', Times, serif;
-        font-size: .9rem;
+        font-size: 1.1rem;
     
     }
     .subu{
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
     
   }
@@ -239,7 +239,7 @@
     .content>.text{
         position: absolute;
         font-family:Georgia, 'Times New Roman', Times, serif;
-        font-size: .8rem;
+        font-size: 1rem;
     
     }
     .click3 {
@@ -248,7 +248,7 @@
         transform: scale(.8);
     }
     .subu{
-        font-size: .8rem;
+        font-size: .9rem;
     }
   }
 
@@ -256,7 +256,7 @@
     .content>.text{
         /* position: absolute;
         font-family:Georgia, 'Times New Roman', Times, serif; */
-        font-size: .7rem;
+        font-size: .8rem;
     
     }
     .subu{
