@@ -26,10 +26,12 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 1.3rem;
     font-weight: bolder;
-    color:rgb(255, 0, 68);
+    color:rgb(255, 0, 128);
     width: 100%;
     top: 25%;
     left: 5%;
+    text-shadow: 1px 1px #000000;
+
 }
 
 .content>img{
