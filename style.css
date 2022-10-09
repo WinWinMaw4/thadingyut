@@ -262,4 +262,9 @@
     .subu{
         font-size: .7rem;
     }
+       .click3{
+        left: 47%;
+        top: 32%;
+        transform: scale(.65);
+    }
   }
