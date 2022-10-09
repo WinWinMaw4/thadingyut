@@ -247,4 +247,7 @@
         top: 34%;
         transform: scale(.7);
     }
+    .subu{
+        font-size: .7rem;
+    }
   }
